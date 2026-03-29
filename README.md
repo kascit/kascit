@@ -44,7 +44,12 @@ while (alive) {
 
 ---
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Building APIs That Don&#39;t Suck: A Spring Boot Journey](https://dhanur.me/blog/building-scalable-apis/)
+- [Docker and Kubernetes: A Love-Hate Story](https://dhanur.me/blog/docker-kubernetes-intro/)
+- [I Use Arch BTW: My Setup and Why I Torture Myself](https://dhanur.me/blog/my-arch-linux-setup/)
+- [So I Made a Blog...](https://dhanur.me/blog/welcome/)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 

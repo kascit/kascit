@@ -40,7 +40,9 @@ while (alive) {
 
 [**dhanur.me**](https://github.com/kascit/kascit.github.io)
  · 
-[**stuff**](https://github.com/kascit/stuff)
+[**/stuff**](https://github.com/kascit/stuff)
+ · 
+[**GPG Public Key**](https://keys.openpgp.org/vks/v1/by-fingerprint/DA89383720B4C891B242D6A896B04EA131E9526B)
 
 ---
 

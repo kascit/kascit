@@ -47,10 +47,11 @@ while (alive) {
 ---
 
 <!-- BLOG-POST-LIST:START -->
+- [The Art of Writing Technical Documentation That People Actually Read](https://dhanur.me/blog/writing-documentation/)
+- [Debugging Production Issues Like a Detective](https://dhanur.me/blog/debugging-production/)
+- [The Hidden Cost of &#39;Free&#39; SaaS Tools](https://dhanur.me/blog/hidden-cost-saas/)
+- [Why I Switched from VS Code to Neovim](https://dhanur.me/blog/vscode-to-neovim/)
 - [Building APIs That Don&#39;t Suck: A Spring Boot Journey](https://dhanur.me/blog/building-scalable-apis/)
-- [Docker and Kubernetes: A Love-Hate Story](https://dhanur.me/blog/docker-kubernetes-intro/)
-- [I Use Arch BTW: My Setup and Why I Torture Myself](https://dhanur.me/blog/my-arch-linux-setup/)
-- [So I Made a Blog...](https://dhanur.me/blog/welcome/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

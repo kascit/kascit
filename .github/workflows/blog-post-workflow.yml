@@ -16,6 +16,6 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@1.9.4
         with:
-          feed_list: "https://dhanur.me/rss.xml"
+          feed_list: "https://raw.githubusercontent.com/kascit/kascit.github.io/raw-mirror/rss.xml"
           max_post_count: 5
           user_agent: "dhanur-gh-action-secret-99@MvK7eT1ACR#C"

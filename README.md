@@ -51,7 +51,7 @@ while (alive) {
 - [The Art of Writing Technical Documentation That People Actually Read](https://dhanur.me/blog/writing-documentation/)
 - [Debugging Production Issues Like a Detective](https://dhanur.me/blog/debugging-production/)
 - [The Hidden Cost of &#39;Free&#39; SaaS Tools](https://dhanur.me/blog/hidden-cost-saas/)
-- [Why I Switched from VS Code to Neovim](https://dhanur.me/blog/vscode-to-neovim/)
+- [Why I Switched from Visual Studio Code to Neovim](https://dhanur.me/blog/vscode-to-neovim/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
